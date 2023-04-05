@@ -1,0 +1,26 @@
+[
+  {
+    "numele": "Cosmin",
+    "postul": "Inginer",
+    "data_angajarii": "2023-05-18",
+    "salariu": "4500"
+  },
+  {
+    "numele": "Alex",
+    "postul": "Ajutor Programator",
+    "data_angajarii": "2022-03-02",
+    "salariu": "3500"
+  },
+  {
+    "numele": "Luci",
+    "postul": "Pirotehnist..",
+    "data_angajarii": "2044-03-23",
+    "salariu": "3000"
+  },
+  {
+    "numele": "Marius",
+    "postul": "Copilot",
+    "data_angajarii": "2023-05-18",
+    "salariu": "4500"
+  }
+]
